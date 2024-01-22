@@ -4,4 +4,4 @@
 
 ###### My hobbies are cycling and photography
 
-![Photo] (https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FIMG_8364.JPG)
+![Photo] (<a href="https://ibb.co/2KhQRh2"><img src="https://i.ibb.co/2KhQRh2/IMG-8364.webp" alt="IMG-8364" border="0"></a>)
